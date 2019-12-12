@@ -8,7 +8,7 @@ def suma(num1, num2):
 
 cambiando_cadenas('Hello World!')
 
-suma = suma(89,90)
+suma = suma(19,40)
 print(suma * 2)
 
 input()
